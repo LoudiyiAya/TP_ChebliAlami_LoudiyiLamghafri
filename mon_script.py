@@ -31,6 +31,3 @@ bibliotheque.ajouter_livre(livre2)
 
 resultat = bibliotheque.emprunter_livre(livre2)
 
-
-
-print(resultat)
